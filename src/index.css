@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.searchbar {
+  margin: 50px;
+}
+
+.searchSegment {
+  width: 100%;
+}
+
+.listSegment {
+  width: 100%;
+}
+
+.yvideo {
+  width: 700px;
+  height: 400px;
+  position: relative;
+}
+
+.yvideoDetail {
+  position: relative;
+  top: -347px;
+}
